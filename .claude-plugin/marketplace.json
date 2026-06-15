@@ -1,0 +1,38 @@
+{
+  "name": "ortho-skills-marketplace",
+  "owner": {
+    "name": "MAIVAN.ai / Ortho-Skills contributors",
+    "url": "https://github.com/MAIVAN-ai/OrthoSkills-plugin"
+  },
+  "metadata": {
+    "description": "OrthoFlow — composable orthopaedic patient-journey skills for AI agents, partitioned into open clinical plugins and commercial-governed plugins. Educational reference only; not medical advice.",
+    "version": "0.4.0"
+  },
+  "plugins": [
+    {
+      "name": "orthoflow",
+      "source": "./orthoflow",
+      "displayName": "OrthoFlow",
+      "description": "The full orthopaedic patient-journey skill suite in one plugin.",
+      "version": "0.4.0",
+      "author": {
+        "name": "MAIVAN.ai / Ortho-Skills contributors",
+        "url": "https://github.com/MAIVAN-ai/OrthoSkills"
+      },
+      "homepage": "https://github.com/MAIVAN-ai/OrthoSkills",
+      "license": "LicenseRef-OrthoSkills-Commercial",
+      "category": "healthcare",
+      "keywords": [
+        "orthopaedics",
+        "orthopedics",
+        "clinical-reasoning",
+        "surgical-workflow",
+        "medical-ai",
+        "healthcare",
+        "orthoflow",
+        "patient-journey",
+        "agentic"
+      ]
+    }
+  ]
+}
