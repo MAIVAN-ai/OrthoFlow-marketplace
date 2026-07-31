@@ -14,7 +14,7 @@
       "source": "./orthoflow",
       "displayName": "OrthoFlow",
       "description": "The full orthopaedic patient-journey skill suite in one plugin.",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "author": {
         "name": "MAIVAN.ai / Ortho-Skills contributors",
         "url": "https://github.com/MAIVAN-ai/OrthoSkills"
