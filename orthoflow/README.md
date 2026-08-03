@@ -5,8 +5,8 @@ All 60+ OrthoFlow skills in a single plugin, for easy testing.
 > 🩺 Educational / decision-support reference only — not medical advice. Surgeon sign-off required.
 > **OrthoSkills**.
 skills
-01-case-intake
-02-image-quality-check
+| 01 | 01-case-intake
+| 02 | 02-image-quality-check
 03-anatomy-routing
 04-aoota-classification
 05-region-classifications
