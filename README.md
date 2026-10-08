@@ -12,8 +12,8 @@ https://maivan.ai/ortho-x-from-ai-assistants-to-agentic-orthopaedics/
 > 🩺 Educational / decision-support reference only — not medical advice. Surgeon sign-off required.
 >
 > 
-> # **OrthoSkills**.
-- Skills:
+> # **OrthoSkills**
+packaged as SKILL.md files:
 - 01-case-intake
 - 02-image-quality-check
 - 03-anatomy-routing
