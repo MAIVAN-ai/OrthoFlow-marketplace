@@ -1,8 +1,16 @@
-# OrthoFlow (combined)
+# ORTHO-X OrthoFlow OrthoSkills (combined)
 
-All 60+ OrthoFlow skills in a single plugin, for easy testing.
+All 60+ ORTHO-X OrthoFlow OrthoSkills in a single plugin, for easy testing and evaluation.
+
+Described here: 
+# ORTHO-X OrthoFlow™ : Guiding the Agentic Orthopaedic Patient Journey
+https://maivan.ai/ortho-x-orthoflow-guiding-the-agentic-orthopaedic-patient-journey/
+and here:
+# ORTHO-X : From AI Assistants to Agentic Orthopaedics
+https://maivan.ai/ortho-x-from-ai-assistants-to-agentic-orthopaedics/
 
 > 🩺 Educational / decision-support reference only — not medical advice. Surgeon sign-off required.
+> 
 > **OrthoSkills**.
 - Skills:
 - 01-case-intake
