@@ -8,7 +8,7 @@ https://maivan.ai/ortho-x-orthoflow-guiding-the-agentic-orthopaedic-patient-jour
 and here:
 # ORTHO-X : From AI Assistants to Agentic Orthopaedics
 https://maivan.ai/ortho-x-from-ai-assistants-to-agentic-orthopaedics/
-
+.
 > 🩺 Educational / decision-support reference only — not medical advice. Surgeon sign-off required.
 > 
 > **OrthoSkills**.
