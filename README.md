@@ -10,8 +10,8 @@ and here:
 https://maivan.ai/ortho-x-from-ai-assistants-to-agentic-orthopaedics/
 
 > 🩺 Educational / decision-support reference only — not medical advice. Surgeon sign-off required.
->
-> 
+>.
+>. 
 > **OrthoSkills**.
 - Skills:
 - 01-case-intake
