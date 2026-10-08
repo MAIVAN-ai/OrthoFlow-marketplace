@@ -1,6 +1,6 @@
 # ORTHO-X OrthoFlow OrthoSkills (combined)
 
-All 60+ ORTHO-X OrthoFlow OrthoSkills in a single plugin, for easy testing and evaluation.
+All 60+ ORTHO-X OrthoFlow OrthoSkills, packaged as SKILL.md files, in a single plugin — for research, testing and evaluation.
 
 Described here: 
 # ORTHO-X OrthoFlow™ : Guiding the Agentic Orthopaedic Patient Journey
