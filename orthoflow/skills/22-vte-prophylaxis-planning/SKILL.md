@@ -1,6 +1,6 @@
 ---
 name: ortho-vte-prophylaxis-planning
-description: Drafts VTE prophylaxis considerations (agent class, duration windows, mechanical options) for clinician review after major orthopaedic surgery. Trigger when: a post-operative vte prophylaxis plan needs drafting for clinician review. Produces a draft prophylaxis consideration set (never an executable order). Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Drafts VTE prophylaxis considerations (agent class, duration windows, mechanical options) for clinician review after major orthopaedic surgery. Trigger when: a post-operative vte prophylaxis plan needs drafting for clinician review. Produces a draft prophylaxis consideration set (never an executable order). Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: prescribing
 x-domain: periop
 x-archetype: generation

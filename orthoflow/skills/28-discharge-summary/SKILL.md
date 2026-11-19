@@ -1,6 +1,6 @@
 ---
 name: ortho-discharge-summary
-description: Generates a structured GP-facing discharge summary auto-populated from the case record for clinician sign-off. Trigger when: a discharge letter is needed at the end of an inpatient episode. Produces a discharge-summary draft. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Generates a structured GP-facing discharge summary auto-populated from the case record for clinician sign-off. Trigger when: a discharge letter is needed at the end of an inpatient episode. Produces a discharge-summary draft. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: periop
 x-archetype: generation

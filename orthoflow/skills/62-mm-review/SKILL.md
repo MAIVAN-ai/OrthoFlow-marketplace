@@ -1,6 +1,6 @@
 ---
 name: ortho-mm-review
-description: Structures morbidity & mortality / complication case preparation with a root-cause skeleton for the review meeting. Trigger when: an m&m or complication review must be prepared. Produces a structured M&M case brief. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Structures morbidity & mortality / complication case preparation with a root-cause skeleton for the review meeting. Trigger when: an m&m or complication review must be prepared. Produces a structured M&M case brief. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: quality
 x-archetype: generation

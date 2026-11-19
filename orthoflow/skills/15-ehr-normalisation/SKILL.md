@@ -1,6 +1,6 @@
 ---
 name: ortho-ehr-normalisation
-description: Standardises messy, largely unstructured EHR inputs (free-text notes, scanned labs, prior records) into the structured case record every downstream skill depends on. Trigger when: raw ehr/pacs data must be turned into a structured case record before reasoning. Produces a normalised, schema-validated case record with provenance per field. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Standardises messy, largely unstructured EHR inputs (free-text notes, scanned labs, prior records) into the structured case record every downstream skill depends on. Trigger when: raw ehr/pacs data must be turned into a structured case record before reasoning. Produces a normalised, schema-validated case record with provenance per field. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: core
 x-archetype: extraction_structuring

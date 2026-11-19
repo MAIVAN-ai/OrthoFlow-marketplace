@@ -1,6 +1,6 @@
 ---
 name: ortho-registry-submission
-description: Prepares and validates national/implant registry exports with code validation and eligibility/consent checks. Trigger when: a case is eligible for registry submission and an export must be prepared. Produces a validated registry export package. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Prepares and validates national/implant registry exports with code validation and eligibility/consent checks. Trigger when: a case is eligible for registry submission and an export must be prepared. Produces a validated registry export package. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: outcomes
 x-archetype: extraction_structuring

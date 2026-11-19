@@ -1,6 +1,6 @@
 ---
 name: ortho-clinical-coding
-description: Suggests ICD-10-GM + CHOP procedure codes and SwissDRG grouping from the case record and operative note, for a coder/surgeon to verify. Trigger when: coding suggestions are needed from documentation. Produces coding suggestions with the supporting documentation. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Suggests ICD-10-GM + CHOP procedure codes and SwissDRG grouping from the case record and operative note, for a coder/surgeon to verify. Trigger when: coding suggestions are needed from documentation. Produces coding suggestions with the supporting documentation. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: admin
 x-archetype: extraction_structuring

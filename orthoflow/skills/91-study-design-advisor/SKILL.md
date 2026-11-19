@@ -1,6 +1,6 @@
 ---
 name: ortho-study-design-advisor
-description: Recommends methodology, sample size and measurement approaches for biomechanical studies, trials or basic-science experiments given a research question. Trigger when: a study design needs methodology/sample-size/measurement advice. Produces design recommendations with rationale. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Recommends methodology, sample size and measurement approaches for biomechanical studies, trials or basic-science experiments given a research question. Trigger when: a study design needs methodology/sample-size/measurement advice. Produces design recommendations with rationale. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: educational
 x-domain: research
 x-archetype: generation

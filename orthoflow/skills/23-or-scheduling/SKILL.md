@@ -1,6 +1,6 @@
 ---
 name: ortho-or-scheduling
-description: Estimates case duration/complexity and supports OR booking against urgency, fasting, implant lead-time and team availability — including real-time re-sequencing in high-acuity trauma. Trigger when: a case must be booked or an or list re-sequenced. Produces a booking/re-sequencing recommendation with the trade-offs. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Estimates case duration/complexity and supports OR booking against urgency, fasting, implant lead-time and team availability — including real-time re-sequencing in high-acuity trauma. Trigger when: a case must be booked or an or list re-sequenced. Produces a booking/re-sequencing recommendation with the trade-offs. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: periop
 x-archetype: decision_gate

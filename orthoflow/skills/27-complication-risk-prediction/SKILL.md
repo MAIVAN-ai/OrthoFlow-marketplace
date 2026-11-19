@@ -1,6 +1,6 @@
 ---
 name: ortho-complication-risk-prediction
-description: Forward-looking prediction of implant success and complication risk from multimodal data (radiomics, wearables, outcomes) to support perioperative and outpatient decisions. Trigger when: a personalised complication/implant-success prediction would support a decision. Produces a calibrated risk prediction with drivers and confidence. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Forward-looking prediction of implant success and complication risk from multimodal data (radiomics, wearables, outcomes) to support perioperative and outpatient decisions. Trigger when: a personalised complication/implant-success prediction would support a decision. Produces a calibrated risk prediction with drivers and confidence. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: periop
 x-archetype: classification

@@ -1,6 +1,6 @@
 ---
 name: ortho-intraop-guidance
-description: Provides educational intra-operative reference support — reduction adequacy, implant position, fluoroscopy view adequacy — from images the surgeon provides. Trigger when: a surgeon requests a reference read on an intra-operative image (reduction, implant position, view adequacy). Produces a reference assessment with confidence, for the surgeon to weigh. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Provides educational intra-operative reference support — reduction adequacy, implant position, fluoroscopy view adequacy — from images the surgeon provides. Trigger when: a surgeon requests a reference read on an intra-operative image (reduction, implant position, view adequacy). Produces a reference assessment with confidence, for the surgeon to weigh. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: periop
 x-archetype: classification

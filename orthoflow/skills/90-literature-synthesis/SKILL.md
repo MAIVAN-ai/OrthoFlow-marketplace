@@ -1,6 +1,6 @@
 ---
 name: ortho-literature-synthesis
-description: Autonomously searches, reads and synthesises the literature to surface conceptual relationships, contradictions and knowledge gaps — beyond keyword retrieval. Trigger when: a question needs a synthesised view across many studies, not a single lookup. Produces a synthesis with contradictions and gaps, fully cited. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Autonomously searches, reads and synthesises the literature to surface conceptual relationships, contradictions and knowledge gaps — beyond keyword retrieval. Trigger when: a question needs a synthesised view across many studies, not a single lookup. Produces a synthesis with contradictions and gaps, fully cited. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: research
 x-archetype: retrieval

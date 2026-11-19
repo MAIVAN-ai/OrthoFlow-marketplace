@@ -1,6 +1,6 @@
 ---
 name: ortho-pathway-adherence
-description: Checks whether care followed the agreed clinical pathway and scores adherence with the deviations made explicit. Trigger when: pathway adherence must be measured for qa. Produces an adherence score with deviations. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Checks whether care followed the agreed clinical pathway and scores adherence with the deviations made explicit. Trigger when: pathway adherence must be measured for qa. Produces an adherence score with deviations. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: quality
 x-archetype: decision_gate

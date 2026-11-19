@@ -1,6 +1,6 @@
 ---
 name: ortho-case-completeness
-description: Checks whether an uploaded case has the minimum data — history, imaging, labs, medication, consent, prior surgery — for safe downstream reasoning. Trigger when: a case is submitted for second opinion, qa, or registry and may be missing required data. Produces a completeness verdict and a missing-data checklist. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Checks whether an uploaded case has the minimum data — history, imaging, labs, medication, consent, prior surgery — for safe downstream reasoning. Trigger when: a case is submitted for second opinion, qa, or registry and may be missing required data. Produces a completeness verdict and a missing-data checklist. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: core
 x-archetype: decision_gate

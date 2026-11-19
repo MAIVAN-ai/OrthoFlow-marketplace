@@ -1,6 +1,6 @@
 ---
 name: ortho-home-telerehab
-description: Generates a procedure-specific home rehabilitation plan with weight-bearing limits and red-flag stop conditions, for the treating team's approval. Trigger when: a patient is at home and needs a procedure-specific exercise/weight-bearing plan. Produces a home rehab plan with explicit red-flag limits. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Generates a procedure-specific home rehabilitation plan with weight-bearing limits and red-flag stop conditions, for the treating team's approval. Trigger when: a patient is at home and needs a procedure-specific exercise/weight-bearing plan. Produces a home rehab plan with explicit red-flag limits. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: homecare
 x-archetype: generation

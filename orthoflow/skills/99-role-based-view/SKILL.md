@@ -1,6 +1,6 @@
 ---
 name: ortho-role-based-view
-description: Renders the appropriate view of an output for each audience — patient, surgeon, admin, payer, MedTech, researcher — without leaking what a role shouldn't see. Trigger when: one output must be presented differently (and safely) to different roles. Produces a role-appropriate view with enforced disclosure limits. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Renders the appropriate view of an output for each audience — patient, surgeon, admin, payer, MedTech, researcher — without leaking what a role shouldn't see. Trigger when: one output must be presented differently (and safely) to different roles. Produces a role-appropriate view with enforced disclosure limits. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: meta
 x-archetype: generation

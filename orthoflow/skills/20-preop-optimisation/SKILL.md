@@ -1,6 +1,6 @@
 ---
 name: ortho-preop-optimisation
-description: Screens modifiable pre-operative risk — anaemia, diabetes, smoking, nutrition, frailty, anticoagulation, infection risk — and assembles an optimisation checklist for clinician review. Trigger when: an elective case is being prepared and modifiable risk should be addressed before surgery. Produces an optimisation checklist mapped to the case. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Screens modifiable pre-operative risk — anaemia, diabetes, smoking, nutrition, frailty, anticoagulation, infection risk — and assembles an optimisation checklist for clinician review. Trigger when: an elective case is being prepared and modifiable risk should be addressed before surgery. Produces an optimisation checklist mapped to the case. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: periop
 x-archetype: generation

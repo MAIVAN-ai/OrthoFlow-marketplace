@@ -1,6 +1,6 @@
 ---
 name: ortho-readmission-risk
-description: Estimates risk of ED visit/readmission from symptoms and pathway deviation, with the action that would mitigate it. Trigger when: a discharged patient's readmission risk should be made explicit. Produces a readmission-risk band with a mitigating action. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Estimates risk of ED visit/readmission from symptoms and pathway deviation, with the action that would mitigate it. Trigger when: a discharged patient's readmission risk should be made explicit. Produces a readmission-risk band with a mitigating action. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: homecare
 x-archetype: classification

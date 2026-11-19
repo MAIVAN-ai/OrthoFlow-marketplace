@@ -1,6 +1,6 @@
 ---
 name: ortho-ai-traceability
-description: Logs model, prompt, sources, confidence, and human reviewer for every AI output — the audit trail. Trigger when: any ai output is produced and must be auditable. Produces an immutable per-output audit record. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Logs model, prompt, sources, confidence, and human reviewer for every AI output — the audit trail. Trigger when: any ai output is produced and must be auditable. Produces an immutable per-output audit record. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: governance
 x-archetype: extraction_structuring

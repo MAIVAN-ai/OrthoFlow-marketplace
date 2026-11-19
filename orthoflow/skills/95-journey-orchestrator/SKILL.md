@@ -1,6 +1,6 @@
 ---
 name: ortho-journey-orchestrator
-description: Tracks where the patient is in the journey and sequences the next clinically/administratively appropriate skill — the master orchestrator / state machine + next-best-action. Trigger when: a case must be moved through the journey and the next step chosen. Produces the journey state and the next-best-action. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Tracks where the patient is in the journey and sequences the next clinically/administratively appropriate skill — the master orchestrator / state machine + next-best-action. Trigger when: a case must be moved through the journey and the next step chosen. Produces the journey state and the next-best-action. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: meta
 x-archetype: decision_gate

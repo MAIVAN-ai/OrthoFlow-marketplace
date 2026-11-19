@@ -1,6 +1,6 @@
 ---
 name: ortho-prom-collection
-description: Collects and structures validated PROMs (HOOS, KOOS, Oxford Hip/Knee, EQ-5D, PROMIS) into a clean dataset linked to the case. Trigger when: proms must be captured at a defined timepoint. Produces a structured, timepoint-linked PROM dataset. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Collects and structures validated PROMs (HOOS, KOOS, Oxford Hip/Knee, EQ-5D, PROMIS) into a clean dataset linked to the case. Trigger when: proms must be captured at a defined timepoint. Produces a structured, timepoint-linked PROM dataset. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: outcomes
 x-archetype: extraction_structuring

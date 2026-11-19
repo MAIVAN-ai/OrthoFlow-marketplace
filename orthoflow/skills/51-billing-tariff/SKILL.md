@@ -1,6 +1,6 @@
 ---
 name: ortho-billing-tariff
-description: Maps outpatient services to the Swiss tariff under the TARMED→TARDOC transition and cross-checks against the liability pathway. Trigger when: outpatient services must be mapped to tardoc/ambulatory flat-rates. Produces draft tariff positions with cross-checks. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Maps outpatient services to the Swiss tariff under the TARMED→TARDOC transition and cross-checks against the liability pathway. Trigger when: outpatient services must be mapped to tardoc/ambulatory flat-rates. Produces draft tariff positions with cross-checks. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: admin
 x-archetype: extraction_structuring

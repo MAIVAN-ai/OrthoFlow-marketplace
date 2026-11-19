@@ -1,6 +1,6 @@
 ---
 name: ortho-consent-management
-description: Tracks and audits the consent chain — including consent for the agent to LEARN from the case (model training / secondary use / federated learning), not only care and research. Trigger when: a case's consent scope must be established or audited. Produces a consent matrix with the learn/secondary-use status explicit. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Tracks and audits the consent chain — including consent for the agent to LEARN from the case (model training / secondary use / federated learning), not only care and research. Trigger when: a case's consent scope must be established or audited. Produces a consent matrix with the learn/secondary-use status explicit. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: governance
 x-archetype: decision_gate
