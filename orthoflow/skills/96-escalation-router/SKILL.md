@@ -1,6 +1,6 @@
 ---
 name: ortho-escalation-router
-description: The 'break out and get a human now' skill — defines the hard stops where autonomy must hand back to a human and routes to the right one. Trigger when: any skill raises a red flag, low confidence, or an out-of-bounds situation. Produces an escalation decision and the human to route to. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "The 'break out and get a human now' skill — defines the hard stops where autonomy must hand back to a human and routes to the right one. Trigger when: any skill raises a red flag, low confidence, or an out-of-bounds situation. Produces an escalation decision and the human to route to. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: meta
 x-archetype: decision_gate

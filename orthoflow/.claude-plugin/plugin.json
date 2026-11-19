@@ -1,7 +1,7 @@
 {
   "name": "orthoflow",
   "displayName": "OrthoFlow",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "OrthoFlow — the full agentic orthopaedic patient-journey skill suite: all 60+ skills across referral, diagnosis, treatment, OR, discharge, care@home, outcomes, billing, quality, research, governance and orchestration, in one plugin. Educational / decision-support reference only; not medical advice; surgeon sign-off required.",
   "author": {
     "name": "MAIVAN.ai / Ortho-Skills contributors",

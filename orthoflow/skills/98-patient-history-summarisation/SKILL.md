@@ -1,6 +1,6 @@
 ---
 name: ortho-patient-history-summarisation
-description: Summarises a longitudinal patient history from the journey memory layer for clinician review — a core copilot function. Trigger when: a clinician needs a faithful longitudinal summary of a patient's orthopaedic history. Produces a faithful longitudinal history summary with provenance. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Summarises a longitudinal patient history from the journey memory layer for clinician review — a core copilot function. Trigger when: a clinician needs a faithful longitudinal summary of a patient's orthopaedic history. Produces a faithful longitudinal history summary with provenance. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: meta
 x-archetype: generation

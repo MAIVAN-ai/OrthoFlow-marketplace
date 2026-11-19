@@ -1,6 +1,6 @@
 ---
 name: ortho-regulatory-escalation
-description: Flags when an event triggers MDR vigilance, serious-incident, or adverse-event reporting relevance, and routes it. Trigger when: an event may meet a vigilance/serious-incident reporting threshold. Produces a regulatory-relevance flag with routing. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Flags when an event triggers MDR vigilance, serious-incident, or adverse-event reporting relevance, and routes it. Trigger when: an event may meet a vigilance/serious-incident reporting threshold. Produces a regulatory-relevance flag with routing. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: governance
 x-archetype: decision_gate

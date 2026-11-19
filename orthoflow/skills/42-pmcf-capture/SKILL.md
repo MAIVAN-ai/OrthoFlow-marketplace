@@ -1,6 +1,6 @@
 ---
 name: ortho-pmcf-capture
-description: Maps each case's implant + classification + outcome into manufacturer-facing post-market clinical follow-up evidence (MDR Art. 61 / Annex XIV). Trigger when: a case can contribute to an implant's post-market clinical follow-up evidence. Produces a PMCF evidence packet with provenance. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Maps each case's implant + classification + outcome into manufacturer-facing post-market clinical follow-up evidence (MDR Art. 61 / Annex XIV). Trigger when: a case can contribute to an implant's post-market clinical follow-up evidence. Produces a PMCF evidence packet with provenance. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: outcomes
 x-archetype: extraction_structuring

@@ -1,6 +1,6 @@
 ---
 name: ortho-human-signoff
-description: Routes outputs to the right human (surgeon, nurse, admin, payer, patient, cooperative reviewer) for sign-off and records it. Trigger when: an output requires a specific human's sign-off before it proceeds. Produces a sign-off request and, once signed, the record. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Routes outputs to the right human (surgeon, nurse, admin, payer, patient, cooperative reviewer) for sign-off and records it. Trigger when: an output requires a specific human's sign-off before it proceeds. Produces a sign-off request and, once signed, the record. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: meta
 x-archetype: decision_gate

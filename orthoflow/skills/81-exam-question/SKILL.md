@@ -1,6 +1,6 @@
 ---
 name: ortho-exam-question
-description: Generates board-style questions with explanations from real (anonymised) cases. Trigger when: board-style practice questions are needed. Produces MCQs with explanations. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Generates board-style questions with explanations from real (anonymised) cases. Trigger when: board-style practice questions are needed. Produces MCQs with explanations. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: educational
 x-domain: education
 x-archetype: generation

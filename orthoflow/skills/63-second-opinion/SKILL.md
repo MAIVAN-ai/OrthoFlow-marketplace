@@ -1,6 +1,6 @@
 ---
 name: ortho-second-opinion
-description: Orchestrates the OSSOcare second-opinion workflow — anonymise, route, produce a transparent independent opinion with its reasoning trail. Trigger when: a smart second opinion is requested for a case. Produces a structured second-opinion report with a transparent reasoning trail. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Orchestrates the OSSOcare second-opinion workflow — anonymise, route, produce a transparent independent opinion with its reasoning trail. Trigger when: a smart second opinion is requested for a case. Produces a structured second-opinion report with a transparent reasoning trail. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: quality
 x-archetype: generation

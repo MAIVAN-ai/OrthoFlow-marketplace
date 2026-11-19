@@ -1,6 +1,6 @@
 ---
 name: ortho-red-flag-screen
-description: Screens for orthopaedic emergencies and do-not-miss conditions — infection, neurovascular compromise, cauda equina, compartment syndrome, open fracture, malignancy, implant failure. Trigger when: any new case is being assessed and emergencies must be excluded before routine reasoning. Produces an escalate-now decision with the reason, or a cleared-to-proceed flag. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Screens for orthopaedic emergencies and do-not-miss conditions — infection, neurovascular compromise, cauda equina, compartment syndrome, open fracture, malignancy, implant failure. Trigger when: any new case is being assessed and emergencies must be excluded before routine reasoning. Produces an escalate-now decision with the reason, or a cleared-to-proceed flag. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: core
 x-archetype: decision_gate

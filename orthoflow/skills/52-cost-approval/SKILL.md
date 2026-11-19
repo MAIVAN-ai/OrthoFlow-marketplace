@@ -1,6 +1,6 @@
 ---
 name: ortho-cost-approval
-description: Drafts insurer pre-authorisation (Kostengutsprache) requests with the clinical justification pre-assembled, for clinician sign-off. Trigger when: an insurer pre-authorisation is required for an elective procedure. Produces a Kostengutsprache draft with justification. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Drafts insurer pre-authorisation (Kostengutsprache) requests with the clinical justification pre-assembled, for clinician sign-off. Trigger when: an insurer pre-authorisation is required for an elective procedure. Produces a Kostengutsprache draft with justification. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: admin
 x-archetype: generation

@@ -1,6 +1,6 @@
 ---
 name: ortho-skill-assessment
-description: Assesses a resident's reasoning against an expert pathway and produces a competency report. Trigger when: a resident's reasoning should be compared to an expert pathway. Produces a competency report with gaps and feedback. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Assesses a resident's reasoning against an expert pathway and produces a competency report. Trigger when: a resident's reasoning should be compared to an expert pathway. Produces a competency report with gaps and feedback. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: educational
 x-domain: education
 x-archetype: classification

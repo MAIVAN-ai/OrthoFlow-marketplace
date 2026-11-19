@@ -1,6 +1,6 @@
 ---
 name: ortho-hospital-qa-benchmark
-description: Benchmarks complication rates and outcomes against internal baselines and detects outliers — the Hospital-QA product. Trigger when: site/surgeon outcomes must be benchmarked. Produces a benchmark dashboard with risk-adjusted outliers. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Benchmarks complication rates and outcomes against internal baselines and detects outliers — the Hospital-QA product. Trigger when: site/surgeon outcomes must be benchmarked. Produces a benchmark dashboard with risk-adjusted outliers. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: quality
 x-archetype: ranking_differential

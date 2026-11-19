@@ -1,6 +1,6 @@
 ---
 name: ortho-remote-monitoring
-description: Continuously analyses wearable and PROM data to detect concerning trends early and coordinate intervention before complications manifest. Trigger when: home wearable/prom data should be watched for deterioration. Produces a trend status with any early-warning flag. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Continuously analyses wearable and PROM data to detect concerning trends early and coordinate intervention before complications manifest. Trigger when: home wearable/prom data should be watched for deterioration. Produces a trend status with any early-warning flag. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: homecare
 x-archetype: ranking_differential

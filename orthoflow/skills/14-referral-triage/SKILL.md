@@ -1,6 +1,6 @@
 ---
 name: ortho-referral-triage
-description: Reads an incoming referral (letter, imaging report, comorbidities, urgency signals) and assigns an urgency class and the correct clinical pathway before a slot is booked. Trigger when: a gp/ed referral or second-opinion request arrives and must be prioritised and routed. Produces an urgency class plus the recommended subspecialty pathway. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Reads an incoming referral (letter, imaging report, comorbidities, urgency signals) and assigns an urgency class and the correct clinical pathway before a slot is booked. Trigger when: a gp/ed referral or second-opinion request arrives and must be prioritised and routed. Produces an urgency class plus the recommended subspecialty pathway. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: core
 x-archetype: decision_gate

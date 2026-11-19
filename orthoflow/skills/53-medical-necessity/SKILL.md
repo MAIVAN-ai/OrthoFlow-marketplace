@@ -1,6 +1,6 @@
 ---
 name: ortho-medical-necessity
-description: Structures the medical-necessity argument for a payer (and appeals for denied claims), grounded in guidelines and the record. Trigger when: a payer requires a structured medical-necessity justification. Produces a structured medical-necessity / appeal draft. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Structures the medical-necessity argument for a payer (and appeals for denied claims), grounded in guidelines and the record. Trigger when: a payer requires a structured medical-necessity justification. Produces a structured medical-necessity / appeal draft. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: admin
 x-archetype: generation

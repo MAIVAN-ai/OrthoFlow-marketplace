@@ -1,6 +1,6 @@
 ---
 name: ortho-implant-outcome-link
-description: Links implant type/class to outcomes without exposing patient identity, producing an implant-outcome data point for the commons. Trigger when: an implant must be linked to its outcome as a de-identified data point. Produces a de-identified implant-outcome data point. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Links implant type/class to outcomes without exposing patient identity, producing an implant-outcome data point for the commons. Trigger when: an implant must be linked to its outcome as a de-identified data point. Produces a de-identified implant-outcome data point. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: outcomes
 x-archetype: extraction_structuring

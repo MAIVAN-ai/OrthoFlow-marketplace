@@ -1,6 +1,6 @@
 ---
 name: ortho-bias-fairness
-description: Checks for pathway bias across age, sex, geography and socioeconomic status — AND for access equity, the risk that the technology concentrates in well-resourced settings and widens disparities. Trigger when: outputs or pathways must be checked for demographic bias. Produces a bias + access-equity report. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Checks for pathway bias across age, sex, geography and socioeconomic status — AND for access equity, the risk that the technology concentrates in well-resourced settings and widens disparities. Trigger when: outputs or pathways must be checked for demographic bias. Produces a bias + access-equity report. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: governance
 x-archetype: decision_gate

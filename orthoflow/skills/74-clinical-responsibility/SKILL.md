@@ -1,6 +1,6 @@
 ---
 name: ortho-clinical-responsibility
-description: Ensures every AI output has a named human owner and makes the liability chain explicit — developer vs. provider vs. institution. Trigger when: an ai output will influence care and must have a named accountable human. Produces a responsibility record with the accountability chain. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Ensures every AI output has a named human owner and makes the liability chain explicit — developer vs. provider vs. institution. Trigger when: an ai output will influence care and must have a named accountable human. Produces a responsibility record with the accountability chain. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: governance
 x-archetype: decision_gate

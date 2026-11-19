@@ -1,6 +1,6 @@
 ---
 name: ortho-operative-note
-description: Drafts a structured, codeable operative note from intra-operative findings for surgeon edit and sign-off. Trigger when: an operative note draft is needed after a procedure. Produces a structured operative-note draft. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Drafts a structured, codeable operative note from intra-operative findings for surgeon edit and sign-off. Trigger when: an operative note draft is needed after a procedure. Produces a structured operative-note draft. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: periop
 x-archetype: generation

@@ -1,6 +1,6 @@
 ---
 name: ortho-surgical-safety-checklist
-description: Supports the WHO surgical safety checklist and time-out — site/side/implant/allergy verification — at the point of care. Trigger when: a who-style time-out / safety check is being performed. Produces a verification result with any mismatch flagged. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Supports the WHO surgical safety checklist and time-out — site/side/implant/allergy verification — at the point of care. Trigger when: a who-style time-out / safety check is being performed. Produces a verification result with any mismatch flagged. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: periop
 x-archetype: decision_gate

@@ -1,6 +1,6 @@
 ---
 name: ortho-research-hypothesis
-description: Converts patterns in the aggregated data into testable research questions and hypotheses, and identifies where evidence or a product issue may be hiding. Trigger when: aggregated patterns suggest a research question. Produces ranked research hypotheses with rationale. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Converts patterns in the aggregated data into testable research questions and hypotheses, and identifies where evidence or a product issue may be hiding. Trigger when: aggregated patterns suggest a research question. Produces ranked research hypotheses with rationale. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: educational
 x-domain: research
 x-archetype: generation

@@ -1,6 +1,6 @@
 ---
 name: ortho-data-governance-gate
-description: Decides, per field, what may flow to the ORTHO-X Data Commons vs what stays locked — consent-for-secondary-use, de-identification, Swiss Trust Layer attestation, and the 'authorities only if legally compelled' carve-out. Trigger when: any data is about to flow beyond direct care (commons, pmcf, registry, analytics). Produces a per-field permit/deny decision with attestation. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Decides, per field, what may flow to the ORTHO-X Data Commons vs what stays locked — consent-for-secondary-use, de-identification, Swiss Trust Layer attestation, and the 'authorities only if legally compelled' carve-out. Trigger when: any data is about to flow beyond direct care (commons, pmcf, registry, analytics). Produces a per-field permit/deny decision with attestation. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: governance
 x-archetype: decision_gate

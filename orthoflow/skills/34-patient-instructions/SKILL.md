@@ -1,6 +1,6 @@
 ---
 name: ortho-patient-instructions
-description: Produces patient-facing, health-literacy-adapted, multilingual (DE/FR/IT) instructions from clinician content. Trigger when: clinician content must be turned into patient-friendly instructions. Produces patient-facing instructions in the chosen language and reading level. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Produces patient-facing, health-literacy-adapted, multilingual (DE/FR/IT) instructions from clinician content. Trigger when: clinician content must be turned into patient-friendly instructions. Produces patient-facing instructions in the chosen language and reading level. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: administrative
 x-domain: homecare
 x-archetype: generation

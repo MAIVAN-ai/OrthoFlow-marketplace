@@ -1,6 +1,6 @@
 ---
 name: ortho-wound-surveillance
-description: Reviews patient-submitted wound photos for escalation signals (SSI features) and routes concerning findings to the team. Trigger when: a patient submits a home wound photo for review. Produces a wound-concern status with escalation routing. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Reviews patient-submitted wound photos for escalation signals (SSI features) and routes concerning findings to the team. Trigger when: a patient submits a home wound photo for review. Produces a wound-concern status with escalation routing. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: homecare
 x-archetype: classification

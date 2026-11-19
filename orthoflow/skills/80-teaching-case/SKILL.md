@@ -1,6 +1,6 @@
 ---
 name: ortho-teaching-case
-description: Converts a structured case into a resident teaching module with learning points and a reasoning walkthrough. Trigger when: a case should become a teaching module. Produces a teaching module with learning points. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Converts a structured case into a resident teaching module with learning points and a reasoning walkthrough. Trigger when: a case should become a teaching module. Produces a teaching module with learning points. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: educational
 x-domain: education
 x-archetype: generation

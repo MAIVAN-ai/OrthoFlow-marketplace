@@ -1,6 +1,6 @@
 ---
 name: ortho-preop-risk-stratification
-description: Applies predictive analytics to estimate surgical risk (ASA-adjacent, frailty, cardiac, transfusion) to support — not replace — the clinical risk assessment. Trigger when: a case needs structured risk stratification to support shared decision-making and planning. Produces calibrated risk bands with the factors driving them. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off.
+description: "Applies predictive analytics to estimate surgical risk (ASA-adjacent, frailty, cardiac, transfusion) to support — not replace — the clinical risk assessment. Trigger when: a case needs structured risk stratification to support shared decision-making and planning. Produces calibrated risk bands with the factors driving them. Educational / decision-support reference only; not medical advice; the responsible clinician decides and signs off."
 x-risk-tier: clinical
 x-domain: periop
 x-archetype: classification
